@@ -67,7 +67,7 @@ model       = 2
 
 
 #Specify Paths from model/ARM site selection
-
+# BE is for use of ARM best estimate data
 be =    True
 season = 'annual'
 
